@@ -1,26 +1,35 @@
-Here's a summary of my project:
+Here's the summary of the "War_Thunder_Screenshot_Automate" project in the specified format:
 
-**1. Project Name:** War_Thunder_Screenshot_Automate
-**2. Short Description:** A Python script that automates screenshot capturing in the game War Thunder using image recognition and machine learning algorithms.
-**3. Overall Description:** I built this project to simplify the process of taking high-quality screenshots in War Thunder, a popular online multiplayer game. The script uses OpenCV and Scikit-Image to detect specific game elements on screen, automatically adjusting its capture settings for optimal results. This is particularly useful for gamers who want to showcase their victories or defeats without having to manually take and edit screenshots.
-**4. Main Purpose:** My main purpose with this project was to experiment with computer vision techniques in a real-world gaming scenario. I wanted to see how well image recognition algorithms could be applied to automate tasks within a game, and whether it would yield improved results compared to manual screenshot taking.
-**5. Key Technologies:**
-	- Python 3.x
-	- OpenCV 4.x for image processing and computer vision
-	- Scikit-Image for image analysis and feature extraction
-	* I'm thinking about adding support for other game clients or platforms in the future, but that will depend on the demand.
-**6. Unique Features:**
-	- Automated screenshot capturing based on game element detection
-	- Customizable capture settings for optimal results
-	- Simple and user-friendly command-line interface (CLI)
-**7. Future Improvements:**
-	- Expanding support to other games or platforms
-	- Enhancing the script's accuracy using more advanced machine learning techniques
-	- Creating a graphical user interface (GUI) for easier configuration and use
-**8. Personal Notes:** I'm really proud of how this project turned out, and I believe it showcases my ability to apply computer vision concepts in creative ways. One cool feature is that the script can even detect specific game events, like battles or victories, and automatically save a screenshot when they occur.
-**9. GitHub Tags:** war-thunder-screenshot-automate, python-gaming-script, opensource-game-tooling, computer-vision-in-games, image-recognition-algorithms, scikit-image-python-library, opencv4x-python-module
+1. **Project Name:** War_Thunder_Screenshot_Automate
+2. **Short Description:** An automated system for capturing screenshots in War Thunder.
+3. **Overall Description:** The War_Thunder_Screenshot_Automate project aims to automate the process of taking screenshots in War Thunder, a multiplayer online game. This system will utilize various technologies to capture high-quality screenshots at specified intervals or when specific events occur within the game. By automating this process, players can obtain valuable in-game evidence for reporting cheating, tracking progress, or simply preserving memories.
+4. **Main Purpose:** The primary purpose of this project is to create an efficient and reliable system for capturing War Thunder screenshots without requiring manual intervention.
+5. **Key Technologies:**
+   - Python
+   - PyAutoGUI (for automating GUI interactions)
+   - OpenCV (for image processing and analysis)
+6. **Unique Features:**
+   - Automated screenshot capture based on game events or intervals
+   - Integration with War Thunder's API for more accurate event detection
+7. **Future Improvements:**
+   - Implementing machine learning algorithms to improve screenshot quality and accuracy
+   - Expanding the system to support other games or applications
+8. **Personal Notes:** This project is a great opportunity to explore various automation technologies and their applications in gaming.
+9. **GitHub Tags:** war-thunder, game-screenshot-automate, python-game-api, pyautogui, opencv-python, game-automation-systems, screenshot-capture-software, image-processing-algorithms, machine-learning-applications
+10. **Installable Modules:** PyAutoGUI, OpenCV, requests (for interacting with War Thunder's API), Pillow (for image processing)
+11. **Suggested Folder Names:** war-thunder-screenshots, game-automation-systems, screenshot-capture-scripts, warthunder-api-interactions
+12. **Root Project Folder Name Suggestions:** WarThunderScreenshotAutomate, GameAutomationSystem, ScreenshotCaptureSoftware
 
-# Extractable Variables
-SHORT_DESCRIPTION = "A Python script that automates screenshot capturing in the game War Thunder using image recognition and machine learning algorithms. 3. Overall Description: I built this project to simplify the process of taking high-quality screenshots in War Thunder, a popular online multiplayer game. The script uses OpenCV and Scikit-Image to detect specific game elements on screen, automatically adjusting its capture settings for optimal results. This is particularly useful for gamers who want to showcase their victories or defeats without having to manually take and edit screenshots. 4. Main Purpose: My main purpose with this project was to experiment with computer vision techniques in a real-world gaming scenario. I wanted to see how well image recognition algorithms could be applied to automate tasks within a game, and whether it would yield improved results compared to manual screenshot taking. 5. Key Technologies: - Python 3.x - OpenCV 4.x for image processing and computer vision - Scikit-Image for image analysis and feature extraction I'm thinking about adding support for other game clients or platforms in the future, but that will depend on the demand. 6. Unique Features: - Automated screenshot capturing based on game element detection - Customizable capture settings for optimal results - Simple and user-friendly command-line interface (CLI) 7. Future Improvements: - Expanding support to other games or platforms - Enhancing the script's accuracy using more advanced machine learning techniques - Creating a graphical user interface (GUI) for easier configuration and use 8. Personal Notes: I'm really proud of how this project turned out, and I believe it showcases my ability to apply computer vision concepts in creative ways. One cool feature is that the script can even detect specific game events, like battles or victories, and automatically save a screenshot when they occur. 9. GitHub Tags: war-thunder-screenshot-automate, python-gaming-script, opensource-game-tooling, computer-vision-in-games, image-recognition-algorithms, scikit-image-python-library, opencv4x-python-module"
-OVERALL_DESCRIPTION = "I built this project to simplify the process of taking high-quality screenshots in War Thunder, a popular online multiplayer game. The script uses OpenCV and Scikit-Image to detect specific game elements on screen, automatically adjusting its capture settings for optimal results. This is particularly useful for gamers who want to showcase their victories or defeats without having to manually take and edit screenshots. 4. Main Purpose: My main purpose with this project was to experiment with computer vision techniques in a real-world gaming scenario. I wanted to see how well image recognition algorithms could be applied to automate tasks within a game, and whether it would yield improved results compared to manual screenshot taking. 5. Key Technologies: - Python 3.x - OpenCV 4.x for image processing and computer vision - Scikit-Image for image analysis and feature extraction I'm thinking about adding support for other game clients or platforms in the future, but that will depend on the demand. 6. Unique Features: - Automated screenshot capturing based on game element detection - Customizable capture settings for optimal results - Simple and user-friendly command-line interface (CLI) 7. Future Improvements: - Expanding support to other games or platforms - Enhancing the script's accuracy using more advanced machine learning techniques - Creating a graphical user interface (GUI) for easier configuration and use 8. Personal Notes: I'm really proud of how this project turned out, and I believe it showcases my ability to apply computer vision concepts in creative ways. One cool feature is that the script can even detect specific game events, like battles or victories, and automatically save a screenshot when they occur. 9. GitHub Tags: war-thunder-screenshot-automate, python-gaming-script, opensource-game-tooling, computer-vision-in-games, image-recognition-algorithms, scikit-image-python-library, opencv4x-python-module"
-GITHUB_TAGS = "war-thunder-screenshot-automate, python-gaming-script, opensource-game-tooling, computer-vision-in-games, image-recognition-algorithms, scikit-image-python-library, opencv4x-python-module"
+# Extracted Variables:
+PROJECT_NAME = "War_Thunder_Screenshot_Automate"
+SHORT_DESCRIPTION = "An automated system for capturing screenshots in War Thunder."
+OVERALL_DESCRIPTION = "The War_Thunder_Screenshot_Automate project aims to automate the process of taking screenshots in War Thunder, a multiplayer online game. This system will utilize various technologies to capture high-quality screenshots at specified intervals or when specific events occur within the game. By automating this process, players can obtain valuable in-game evidence for reporting cheating, tracking progress, or simply preserving memories."
+MAIN_PURPOSE = "The primary purpose of this project is to create an efficient and reliable system for capturing War Thunder screenshots without requiring manual intervention."
+KEY_TECHNOLOGIES = "Python, PyAutoGUI (for automating GUI interactions), OpenCV (for image processing and analysis)"
+UNIQUE_FEATURES = "Automated screenshot capture based on game events or intervals, Integration with War Thunder's API for more accurate event detection"
+FUTURE_IMPROVEMENTS = "Implementing machine learning algorithms to improve screenshot quality and accuracy, Expanding the system to support other games or applications"
+PERSONAL_NOTES = "This project is a great opportunity to explore various automation technologies and their applications in gaming."
+GITHUB_TAGS = "war, thunder, game, screenshot, automate, python, game, api, pyautogui, opencv, python, game, automation, systems, screenshot, capture, software, image, processing, algorithms, machine, learning, applications"
+INSTALLABLE_MODULES = "PyAutoGUI, OpenCV, requests (for interacting with War Thunder's API), Pillow (for image processing)"
+SUGGESTED_FOLDER_NAMES = "war, thunder, screenshots, game, automation, systems, screenshot, capture, scripts, warthunder, api, interactions"
+ROOT_PROJECT_FOLDER_NAME_SUGGESTIONS = "WarThunderScreenshotAutomate, GameAutomationSystem, ScreenshotCaptureSoftware"
